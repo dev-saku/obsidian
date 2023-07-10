@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7d9737975458f384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,9 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d9737975458f384",
+  "active": "633689b0e0195836",
   "lastOpenFiles": [
+    "2023-07-11.md",
+    "README.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Project/CMS/Overall.canvas",
+    "Project/CMS/img/Untitled Diagram 1.svg",
+    "Project/CMS/img/Headless CMS.svg",
     "Untitled/Untitled.md",
+    "Project/CMS/img",
+    "Project/Blog",
+    "Project/CMS",
+    "Project",
+    "JS/React",
+    "JS",
+    "AWS",
     "Untitled"
   ]
 }
