@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "633689b0e0195836",
+  "active": "a8ac93eb2a77d2fa",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
     "2023-07-11.md",
     "README.md",
     "Untitled 1.canvas",
@@ -148,7 +149,6 @@
     "Project/CMS/Overall.canvas",
     "Project/CMS/img/Untitled Diagram 1.svg",
     "Project/CMS/img/Headless CMS.svg",
-    "Untitled/Untitled.md",
     "Project/CMS/img",
     "Project/Blog",
     "Project/CMS",
