@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5d646913165dbb",
+        "id": "44ad01009ef6b40c",
         "type": "tabs",
         "children": [
           {
-            "id": "633689b0e0195836",
+            "id": "999ce79e46f7f54b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "7e96cb3e1d711746",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8ac93eb2a77d2fa",
+  "active": "999ce79e46f7f54b",
   "lastOpenFiles": [
     "Untitled/Untitled.md",
     "2023-07-11.md",
